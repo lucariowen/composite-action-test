@@ -1,0 +1,2 @@
+# composite-action-test
+test
